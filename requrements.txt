@@ -1,0 +1,8 @@
+# this is requirements.txt file for running the disk santiser project
+
+python
+os
+sys
+hashlib
+time
+schedule
